@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chinmay97531
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Express.JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
