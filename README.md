@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chinmay97531
 - 👀 I’m interested in Website Development.
-- 🌱 I’m currently learning WebSockets
+- 🌱 I’m currently learning PostgreSQL
 - 💞️ I’m looking to collaborate on Some Data Engineering and Full Stack Project
 - 📫 How to reach me ...
 
