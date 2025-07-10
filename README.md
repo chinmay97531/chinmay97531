@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=435&lines=React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;MongoDB+%7C+PostgreSQL+%7C+MySQL;Clean+code+enthusiast+%E2%9C%8C%EF%B8%8F;Open+Source+Contributor+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=435&lines=React+%7C+Next.js+%7C+Node.js;MongoDB+%7C+PostgreSQL+%7C+MySQL;Clean+code+enthusiast+%E2%9C%8C%EF%B8%8F;Open+Source+Contributor+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,6 @@
 
 - 🌱 I’m currently learning and building projects in **React, Next.js, TypeScript**
 - 💡 I enjoy solving problems in DSA and learning new Skills.
-- ⚡ Fun fact: I break things until I make them work better 🚀
 
 ---
 
