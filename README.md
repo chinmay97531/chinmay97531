@@ -63,7 +63,7 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chinmay97531/](https://www.linkedin.com/in/chinmay-mittal-695825257/" target="_blank">
+  <a href="https://www.linkedin.com/in/chinmay97531/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:chinmaymittal0000@gmail.com">
