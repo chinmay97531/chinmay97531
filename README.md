@@ -9,8 +9,10 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning and building projects in **React, Next.js, TypeScript**
-- 💡 I enjoy solving problems in DSA and learning new Skills.
+- 🎓 Final-year **B.Tech @ Thapar Institute** (2026 batch)  
+- 💻 Passionate about **Full-Stack Development, Distributed Systems & AI/ML**  
+- 🌱 Currently exploring **Next.js, Prisma, and Reinforcement Learning**  
+- 🧩 Solved **500+ DSA problems** across LeetCode, CodeChef, and GfG 
 
 ---
 
