@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/chinmay97531">
+  <!-- <a href="https://github.com/chinmay97531">
     <img src="https://img.shields.io/github/followers/chinmay97531?label=GitHub%20Followers&style=for-the-badge" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/chinmay-mittal-695825257/">
     <img src="https://img.shields.io/badge/LinkedIn-Chinmay%20Mittal-blue?style=for-the-badge&logo=linkedin" />
   </a>
